@@ -7,7 +7,7 @@ Padrão para envio de códigos
 -----------------------------
 
 * Clone o repositório
-* Crie uma pasta com o padrão Dojo e a data do dojo. _Ex. Dojo-01-06-13_
+* Crie uma pasta com o padrão Dojo e a data do dojo no formato YY-mm-dd. _Ex. Dojo-13-06-01_
 * Coloque todos os arquivos gerados dentro desta pasta
 * Faça um Pull Request
 
